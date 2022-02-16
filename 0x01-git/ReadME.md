@@ -1,1 +1,1 @@
-ALX pre-course. This is a simple demonstraion.
+##ALX pre-course. This is a simple demonstration.
